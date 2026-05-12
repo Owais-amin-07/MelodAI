@@ -1,0 +1,6 @@
+{
+  "name": "MelodAI",
+  "description": "AI-Powered Singing Rating Application using Gemini to analyze pitch, rhythm, and tone.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
